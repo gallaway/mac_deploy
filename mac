@@ -97,11 +97,11 @@ case "$SHELL" in
 esac
 
 brew_is_installed() {
-  brew list -1 | grep -Fqx "$1"
+  brew list | grep -Fqx "$1"
 }
 
 tap_is_installed() {
-  brew tap -1 | grep -Fqx "$1"
+  brew tap | grep -Fqx "$1"
 }
 
 gem_install_or_update() {
