@@ -15,7 +15,8 @@ cask 'cloudapp'
 cask 'firefox'
 cask 'google-chrome'
 
-## Graphics
+## Graphicsc
+cask 'xquartz'
 cask 'inkscape'
 cask 'gimp'
 
