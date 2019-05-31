@@ -1,0 +1,14 @@
+cask 'firefox'
+cask 'incscape'
+cask 'gimp'
+cask 'sublime'
+cask 'slack'
+cask 'libreoffice'
+cask 'git'
+
+cask 'rstudio'
+
+cask 'rclone'
+cask 'rclone-browser'
+
+cask 'tunnelblick'
